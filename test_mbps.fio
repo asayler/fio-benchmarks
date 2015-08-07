@@ -1,5 +1,5 @@
 [global]
-ioengine=posixaio
+ioengine=libaio
 size=10g
 end_fsync=1
 randrepeat=1
